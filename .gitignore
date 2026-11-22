@@ -1,0 +1,10 @@
+*.docx
+*.pdf
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.log
+populate_report.py
+build_all_notebooks.py
